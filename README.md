@@ -5,7 +5,6 @@ Mods
 
 https://github.com/Sokomine/cottages 
 
-
 https://github.com/minetest-mods/awards
 	https://github.com/minetest-mods/biome_lib
    	https://github.com/minetest-mods/moretrees
